@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi! I'm a UPC student at FIB (Facultad de Informática de Barcelona). I'm actually cursing the Artificial Intelligence degree at first year.
+Hi! I'm a UPC student at FIB (Facultad de Informática de Barcelona). I'm actually cursing the Artificial Intelligence degree at third year.
 <!--
 **Adrifib/adrifib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
