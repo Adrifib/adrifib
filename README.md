@@ -67,6 +67,7 @@ I'm a **third-year Artificial Intelligence student at [FIB – UPC](https://www.
 
 | Repository | What it is |
 | --- | --- |
+| [adribetic-showcase](https://github.com/Adrifib/adribetic-showcase) | Flutter app to track pump infusion-set, CGM-sensor and battery changes, with reminders and stats · showcase of a private project · Dart |
 | [BitsxLaMarato2025](https://github.com/Adrifib/BitsxLaMarato2025) | Bitsx la Marató 2025 · GDScript |
 | [BitsxLaMarato](https://github.com/Adrifib/BitsxLaMarato) | Bitsx la Marató 2024 · Python |
 | [pa1-practice](https://github.com/Adrifib/pa1-practice) | Three-in-a-row game · Python |
